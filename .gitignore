@@ -1,0 +1,4 @@
+./api/__pycache__
+./rag/__pycache__
+./env
+.env
