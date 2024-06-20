@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from indaba_x_rag_app.rag.rag import (
+from rag.rag import (
     llm,
     getDocs,
     translateEngToKiny,
